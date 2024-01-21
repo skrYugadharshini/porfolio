@@ -1,6 +1,8 @@
+
+[!MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)]
 <h1 align="center">Hi 👋, I'm Yuga</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skryugadharshini" alt="skryugadharshini" /></a> </p>
-<image align = "right'" alt "coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif>
+<img align"right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif>
 
 - ⚡ Fun fact **Im funny**
 
